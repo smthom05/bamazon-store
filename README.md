@@ -1,4 +1,4 @@
-# Bamazon
+# Bamazon-Store
 
 ## *Overview*
 Bamazon is an Amazon-like CLI application built using JavaScript, Node.js, MySQL, and the Inquirer NPM package. It allows for three different levels of users:
